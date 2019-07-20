@@ -1132,6 +1132,8 @@ Author URL: http://www.themeforest.net/user/telatkaya_
         display: table;
         margin: 0 auto 15px auto;
         float: none;
+
+        align-content: center;
     }
     
     .copyright {
